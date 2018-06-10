@@ -1,0 +1,17 @@
+*target*
+*.jar
+*.war
+*.ear
+*.class
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+.classpath
+.settings/
+.loadpath
+
